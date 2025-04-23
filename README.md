@@ -13,10 +13,11 @@
 git clone https://github.com/your-username/project-name.git
 cd project-name
 cargo build
+```
 
 ## Dependencies
 
 ```bash
 tokio = { version = "1.36", features = ["time"] }
 futures = "0.3"
-
+```
