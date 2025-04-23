@@ -7,7 +7,7 @@
 - Has a cooperative yielding (yield_now().await)
 - A join_all! macro is implemented to await multiple JoinHandles
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-username/project-name.git
