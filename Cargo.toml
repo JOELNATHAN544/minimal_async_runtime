@@ -1,0 +1,8 @@
+[package]
+name = "holiday_minimal_async_runtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.36", features = ["time"] }
+futures = "0.3"
